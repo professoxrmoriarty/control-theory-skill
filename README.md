@@ -64,6 +64,10 @@ If your tooling supports pulling a single SKILL.md directly, you can also use:
 |---|---|---|---|
 | Core Entry | [control-theory](./skills/control-theory/SKILL.md) | Agent design methodology based on cybernetics | Designing Agent systems, debugging feedback loops, planning task decomposition, reviewing system architecture |
 
+## Reference Material
+
+The [`reference/`](./reference/) directory contains the original full text of"Cybernetics and Scientific Methodology"(《控制论与科学方法论》) by Jin Guantao and Hua Guofan. When using the skill, you can open this file at any time to check the original context behind any concept or principle.
+
 ## Installation
 
 ### General Installation
