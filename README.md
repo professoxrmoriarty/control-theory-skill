@@ -34,13 +34,13 @@ Processing principles:
 The preferred entry point is `control-theory`:
 
 ```bash
-npx skills add yaklang/control-theory-skill
+npx skills add professoxrmoriarty/control-theory-skill
 ```
 
 If your tooling supports pulling a single SKILL.md directly, you can also use:
 
 - frontmatter name: `control-theory`
-- raw URL: `https://raw.githubusercontent.com/yaklang/control-theory-skill/main/skills/control-theory/SKILL.md`
+- raw URL: `https://raw.githubusercontent.com/professoxrmoriarty/control-theory-skill/main/skills/control-theory/SKILL.md`
 
 ## Skill Content Overview
 
@@ -73,19 +73,19 @@ The [`reference/`](./reference/) directory contains the original full text of"Cy
 ### General Installation
 
 ```bash
-npx skills add yaklang/control-theory-skill
+npx skills add professoxrmoriarty/control-theory-skill
 ```
 
 ### Raw URL Installation
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yaklang/control-theory-skill/main/skills/control-theory/SKILL.md
+curl -fsSL https://raw.githubusercontent.com/professoxrmoriarty/control-theory-skill/main/skills/control-theory/SKILL.md
 ```
 
 ### Local Use as a Knowledge Base
 
 ```bash
-git clone https://github.com/yaklang/control-theory-skill.git
+git clone https://github.com/professoxrmoriarty/control-theory-skill.git
 cd control-theory-skill
 ```
 
